@@ -18,6 +18,6 @@
 ### My GitHub Stats
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=csjdyr001&show_icons=true" /> 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=csjdyr001&layout=compact&langs_count=6&text_color=000&icon_color=fff&theme=graywhite" />
+  <img src="https://github-readme-stats.vercel.app/api?username=caofangkuai&show_icons=true" /> 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=caofangkuai&layout=compact&langs_count=6&text_color=000&icon_color=fff&theme=graywhite" />
 </div>
