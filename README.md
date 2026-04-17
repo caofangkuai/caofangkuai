@@ -1,4 +1,4 @@
-# I will use (Codeberg)[https://codeberg.org/caofangkuai] instead of GitHub.
+# I will use [Codeberg](https://codeberg.org/caofangkuai) instead of GitHub.
 
 <div align="center">
   <a href="https://cfknb.vip/">
